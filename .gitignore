@@ -1,0 +1,26 @@
+# Datasets (too large / copyrighted)
+*.csv
+2 Project DataSet TEAMWORK/
+
+# Fine-tuned model files (too large for GitHub)
+t5_small_finetuned/
+Text_Summarizer_Model/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Version file
+0.26.0
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
